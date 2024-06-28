@@ -1,7 +1,5 @@
 # SquadLink 
-
-## Main goal
-Finding teammates to play in cs2. 🔫
+Web app for finding teammates to play in cs2. 🔫
 
 ## Tech stack
 - Client ⚛️
