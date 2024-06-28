@@ -1,0 +1,15 @@
+[submodule "image-storage"]
+	path = image-storage
+	url = https://github.com/ahrisai/image-storage.git
+[submodule "mate-finder-client"]
+	path = mate-finder-client
+	url = https://github.com/ahrisai/mate-finder-client.git
+[submodule "mate-finder-websocket-server"]
+	path = mate-finder-websocket-server
+	url = https://github.com/ahrisai/mate-finder-websocket-server.git
+[submodule "steam-auth-server"]
+	path = steam-auth-server
+	url = https://github.com/ahrisai/steam-auth-server.git
+[submodule "mate-finder-server"]
+	path = mate-finder-server
+	url = https://github.com/ahrisai/mate-finder-server.git
