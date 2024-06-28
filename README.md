@@ -4,17 +4,17 @@
 Finding teammates to play in cs2. 🔫
 
 ## Tech stack
-- Client
+- Client ⚛️
   - React
   - TypeScript
   - Redux Tool Kit
   - Styled Components
-- NodeJS servers
+- NodeJS servers 🈯
   - Express
   - TypeScript
-- Websocket Server
-    -socketIO
-- Steam Auth by [passport.js]
+- Websocket Server 🔄
+    - socketIO
+- Steam Auth by Passport.js lib
 
 ## Requirements
 - node v18.17.1
